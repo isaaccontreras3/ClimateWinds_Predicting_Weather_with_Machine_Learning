@@ -38,7 +38,7 @@ Summarized findings and recommendations in presentation slides.
 - **Matplotlib**, **Seaborn**, & **Plotly**: Statistical and interactive visualizations  
 - **OS** & **Calendar**: Handling file paths and date-based calculations  
 - **Scikit-learn**: KNN, Decision Trees, Random Forest, and performance metrics  
-- **TensorFlow/PyTorch** (or similar): Building CNNs for image classification and RNNs for time-series predictions  
+- **TensorFlow** : Building CNNs for image classification and RNNs for time-series predictions  
 - **Scipy**: Scientific computing and advanced statistical operations  
 
 ## Tableau Visualization
